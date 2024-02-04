@@ -1,4 +1,4 @@
-My real name is George, but you can call me Felix.
+My name is George, but you can call me Felix.
 
 I am currently a student programming for fun but I am hoping in the future to take on a job somewhere in the computer science field.
 I mainly write code in `C++` but I know some `Python` and am hoping to start learning `Rust` soon (when I feel experienced enough with `C++`).
